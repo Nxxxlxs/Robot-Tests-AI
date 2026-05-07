@@ -1,8 +1,13 @@
+
 # Robot Framework + OpenAI AI Failure Analysis
 
 Projeto de automação de testes utilizando Robot Framework, Selenium e OpenAI para análise inteligente de falhas automatizadas através de screenshots e contexto do teste.
 
-![Demo do projeto] (assets/robot-test-ai.gif)
+<div align="center">
+
+![Demo](https://raw.githubusercontent.com/Nxxxlxs/Robot-Tests-AI/refs/heads/main/assets/robot-test-ai.gif)
+
+</div>
 
 ---
 
