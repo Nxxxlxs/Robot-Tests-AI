@@ -1,0 +1,19 @@
+[project]
+name = "robots-tests-ai"
+version = "0.1.0"
+license = "MIT"
+description = "Robot Framework + OpenAI integration for intelligent automated failure analysis"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "openai>=2.35.1",
+    "pillow>=12.2.0",
+    "python-dotenv>=1.2.2",
+    "robotframework>=7.4.2",
+    "robotframework-seleniumlibrary>=6.8.0",
+]
+
+[dependency-groups]
+dev = [
+    "ruff",
+]
